@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Ayesha-Mughal
-- 👀 I’m interested in software develpment
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me using email ayeshasaeed0026@gmail.com
-
-<!---
-Ayesha-Mughal/Ayesha-Mughal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Ayesha Mughal, a passionate Software Engineering student at GIFT University, Gujranwala. I enjoy learning and building creative mobile and web applications using tools like Java, React Native, and Firebase. Currently, I’m exploring AI-based solutions that solve real-world problems and improve user experiences. I love turning ideas into working apps and am always open to learning and collaborating on meaningful projects. You can reach me at ayeshasaeed0026@gmail.com.
